@@ -9,8 +9,8 @@
 #define ENABLE_PIN 27
 
 // WiFi
-const char* ssid = "MiFibra-4B5B-24G";
-const char* password = "JoUqy7cG";
+const char* ssid = "TU WIFI";
+const char* password = "TU CONTRASEÑA";
 
 // Crear servidor web en el puerto 80 y un WebSocket en "/ws"
 AsyncWebServer server(80);
